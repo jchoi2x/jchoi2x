@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">James Choi</h1>
+<p align="center">
+  Software Engineer • Full-Stack • Cloud / DevOps • AI-Driven Builder
+</p>
 
-<!--
-**jchoi2x/jchoi2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build scalable web platforms, cloud-native systems, developer tooling, and AI-assisted workflows.<br/>
+  Focused on TypeScript, React, Node.js, Cloudflare Workers, AWS, and structured AI automation.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/jchoi2x">GitHub</a> •
+  <a href="mailto:choijjames@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://YOUR_PORTFOLIO_URL/">Portfolio</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Focus
+- AI-first engineering workflows
+- Cloudflare Workers / Durable Objects
+- Developer tooling, MCP servers, and automation
+- Full-stack systems with TypeScript, React, and Node.js
