@@ -17,8 +17,4 @@
 
 ---
 
-### Current Focus
-- AI-first engineering workflows
-- Cloudflare Workers / Durable Objects
-- Developer tooling, MCP servers, and automation
-- Full-stack systems with TypeScript, React, and Node.js
+
